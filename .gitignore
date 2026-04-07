@@ -1,0 +1,98 @@
+# ========================
+# Maven
+# ========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ========================
+# Java
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# ========================
+# Dados persistidos localmente
+# ========================
+tasks.json
+
+# ========================
+# IDEs — IntelliJ IDEA
+# ========================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ========================
+# IDEs — VS Code
+# ========================
+.vscode/
+!.vscode/extensions.json
+
+# ========================
+# IDEs — Eclipse
+# ========================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+
+# ========================
+# IDEs — NetBeans
+# ========================
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ========================
+# Sistema operacional
+# ========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+spring.log
+
+# ========================
+# Variáveis de ambiente e segredos
+# ========================
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
