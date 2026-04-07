@@ -1,4 +1,4 @@
-# Task Board — Java
+# Task Board Java
 
 Aplicação de gerenciamento de tarefas em Java com arquitetura em camadas. Suporta dois modos de uso: menu interativo no terminal e API REST via Spring Boot.
 
